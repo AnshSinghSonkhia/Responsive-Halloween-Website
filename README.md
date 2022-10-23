@@ -1,4 +1,4 @@
-# Responsive Halloween Website
+# Responsive Halloween Website &nbsp;![](https://img.shields.io/badge/-HTML_5-black?style=flat&logo=Html5&logoColor=orange)&nbsp;![](https://img.shields.io/badge/-CSS_3-black?style=flat&logo=css3&logoColor=blue)&nbsp;![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript&logoColor=gold)
 Responsive Website for Halloween using Pure HTML5, CSS3 and JavaScript.
 
 
